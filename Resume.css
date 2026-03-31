@@ -1,0 +1,30 @@
+body {
+    background-color:aliceblue
+}
+
+h1, h2 {
+    background-color: darkslateblue;
+    color: white;
+    width: 1000px;
+}
+
+h4 {
+        background-color: rgb(40, 116, 202);
+        color: white;
+        width: 1000px;
+}
+
+h3 {
+    background-color:darkslateblue;
+    color:white;
+    width: 1000px;
+}
+
+b {
+    color:black;
+    text-decoration: underline;
+}
+
+a {
+    color:white
+}
