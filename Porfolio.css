@@ -1,0 +1,21 @@
+.bday {
+    padding:0px; 
+    width:450px;
+    height: 450px;
+    border: 1px solid black;
+    background-color: palegoldenrod;
+    text-align: center;
+}
+.movie { 
+    padding-top: 0px;
+    width:450px;
+    height: 450px;
+    border: 1px solid black;
+    background-color: palegoldenrod;
+    text-align: center;
+}
+
+.link{
+    font-size: larger;
+    font-weight: 900;
+}
